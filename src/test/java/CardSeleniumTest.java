@@ -32,6 +32,6 @@ public class CardSeleniumTest {
 
     @Test
     void ValidateData(){
-        driver.get("http://0.0.0.0:7777/");
+        driver.get("http://localhost:7777/");
     }
 }
