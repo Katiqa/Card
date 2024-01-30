@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/Katiqa/Card/actions/workflows/gradle.yml/badge.svg)](https://github.com/Katiqa/Card/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/Katiqa/Card/actions/workflows/gradle.yml/badge.svg?event=push)](https://github.com/Katiqa/Card/actions/workflows/gradle.yml)
